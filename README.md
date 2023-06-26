@@ -26,7 +26,7 @@
 
 The code relies heavily on custom PyTorch extensions that are compiled on the fly using NVCC. On Windows, the compilation requires Microsoft Visual Studio. We recommend installing [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/) and adding it into `PATH` using `"C:\Program Files (x86)\Microsoft Visual Studio\<VERSION>\Community\VC\Auxiliary\Build\vcvars64.bat"`.
 
-See StyleGan3's [Troubleshooting](./docs/troubleshooting.mdhttps://github.com/NVlabs/stylegan3/blob/main/docs/troubleshooting.md) for help on common installation and run-time problems.
+See StyleGan3's [Troubleshooting](https://github.com/NVlabs/stylegan3/blob/main/docs/troubleshooting.md) for help on common installation and run-time problems.
 
 ## Download pre-trained StyleGAN2 weights
 
